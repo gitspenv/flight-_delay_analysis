@@ -1,0 +1,8 @@
+# Allow folder structure
+!data/
+!data/raw/
+!data/processed/
+
+# Ignore all files in raw and processed
+data/raw/**
+data/processed/**
