@@ -2,7 +2,9 @@
 !data/
 !data/raw/
 !data/processed/
+!model/
 
 # Ignore all files in raw and processed
 data/raw/**
 data/processed/**
+model/**
