@@ -68,7 +68,14 @@ data/processed/df_cleaned_ready_for_modeling.csv
 
 ---
 
-### 6. Prepare for Modeling
-Before modeling, review and adjust the `columns_to_drop` list inside `eda_master.ipynb` depending on your use case.
+### 6. Modeling
+Run the Regression_model.ipynb and the classification_model.ipynb
+
+---
+
+---
+
+### 7. Modeling
+Run the App.py via console using the following command: "Streamlit run app.py"
 
 ---
